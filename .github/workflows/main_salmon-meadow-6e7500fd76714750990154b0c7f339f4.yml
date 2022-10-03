@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'salmon-meadow-6e7500fd76714750990154b0c7f339f4'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_49E618BCD6F04FA79B13A7B687675ABF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FFBF51C12EE64405A95C0A1BC72BF65A }}
